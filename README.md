@@ -1,3 +1,3 @@
-# commclassroomOP
+# commclassroom
 
-Kunal Kushwaha learing github amazing..
+Yashpal Gedar learing github amazing..
